@@ -1,4 +1,4 @@
 # HotStark
 A hotstar replica
 
-Contains title and footer
+Contains title, contents and footer
